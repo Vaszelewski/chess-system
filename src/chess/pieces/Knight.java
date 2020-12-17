@@ -6,7 +6,7 @@ import chess.ChessPiece;
 import chess.Color;
 
 public class Knight extends ChessPiece {
-//Rei
+//Cavalo
 	public Knight(Board board, Color color) {
 		super(board, color);
 	}
